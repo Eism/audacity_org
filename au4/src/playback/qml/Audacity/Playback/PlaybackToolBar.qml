@@ -25,7 +25,7 @@ Item {
     implicitWidth: maximumWidth
     implicitHeight: view.height
 
-    StyledToolBarView {
+    PStyledToolBarView {
         id: view
 
         anchors.verticalCenter: parent.verticalCenter
